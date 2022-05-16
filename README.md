@@ -1,4 +1,4 @@
-# OkNVGS
+# OkNVGS (OUT OF DATE REDO WIP)
 An open source night vision option for Airsoft! This is a work in progress.
 Parts
 1. Night eagle 3 by run cam
